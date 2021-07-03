@@ -7,8 +7,8 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:tapontap_app/main.dart';
-import 'package:tapontap_app/widget/mainnn.dart';
+import 'package:tapontap_app/example2/main.dart';
+import 'package:tapontap_app/mainnn.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {

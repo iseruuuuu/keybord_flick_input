@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tapontap_app/widget/swipe_update.dart';
+import 'package:tapontap_app/swipe_update.dart';
 
 //TODO フリックした時の三角形を作りたい。
 //TODO 長押しからのフリック

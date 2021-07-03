@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:tapontap_app/touch_lock.dart';
-import 'widget/mainnn.dart';
+import 'package:tapontap_app/example2/touch_lock.dart';
+import '../mainnn.dart';
 
 
 void main() {

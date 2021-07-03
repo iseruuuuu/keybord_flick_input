@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:tapontap_app/example/swipe_gesture.dart';
 
-import 'package:tapontap_app/widget/swipe_update.dart';
+import 'package:tapontap_app/swipe_update.dart';
 
 
 
